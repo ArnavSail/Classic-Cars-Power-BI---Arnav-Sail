@@ -13,4 +13,4 @@ The dashboard was built using the following tools:
 📝 Data Modeling – Tables include product, customer, time, and geography relationships.
 📁 File Format – .pbix for source dashboard and .png for previews/screenshots.
 
-Refer to the attached dashboard image ([Screenshot 2025-07-29 202328.png](https://github.com/ArnavSail/Classic-Cars-Power-BI---Arnav-Sail/blob/main/Screenshot.png)) for visual reference.
+Refer to the attached dashboard image (https://github.com/ArnavSail/Classic-Cars-Power-BI---Arnav-Sail/blob/main/Screenshot.png) for visual reference.
